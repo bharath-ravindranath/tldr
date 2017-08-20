@@ -17,3 +17,7 @@
 - Go to the previously chosen directory:
 
 `cd -`
+
+- Go to the user's home directory
+
+`cd ~`
